@@ -1,0 +1,14 @@
+# Requirements for Webcam CNN Project
+# Compatible with Python 3.9 - 3.13
+
+# OpenCV for computer vision and webcam capture
+opencv-python>=4.8.0
+
+# NumPy for array manipulations and matrix transformations
+numpy>=1.26.0
+
+# Matplotlib for educational visualizations and activation heatmaps
+matplotlib>=3.7.0
+
+# TensorFlow and Keras for Convolutional Neural Network modeling
+tensorflow>=2.15.0
